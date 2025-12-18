@@ -1,1 +1,0 @@
-- i am low on context, about to reach weekly usage limit. i'll give you tasks, without using up much context in chat window here for explaining and other (unless specifically asked ) finish the task. while doing the task do not think about context(for example while creating a readme file, dont think context , create properly)
