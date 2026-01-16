@@ -1,7 +1,15 @@
 ### IntelliJ IDEA ###
+.idea/
+*.iml
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+
+### Claude ###
+.claude/
+
+### Compiled Java ###
+*.class
 
 ### Eclipse ###
 .apt_generated
